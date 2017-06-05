@@ -25,7 +25,7 @@
             "SessionSets": ["Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee", "My Schedule - TEF", "Schedule Builder - TEF Extended"]
         },
         {
-            "HubbId": 111,
+            "HubbId": 1672,
             "SessionTypeName": "Breakout: 45 minute",
             "SessionSets": ["Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee", "My Schedule - TEF"]
         },

@@ -1,13 +1,19 @@
 {
    "MapsMap":[
       {
-         "RoomId":"235",
+         "RoomId":"847",
          "RoomImageName":"A1",
          "DisplayName":"Room A1",
          "FloorImageName":"FloorA1"
       },
       {
-         "RoomId":"841",
+         "RoomId":"A1",
+         "RoomImageName":"A1",
+         "DisplayName":"Room A1",
+         "FloorImageName":"FloorA1"
+      },
+      {
+         "RoomId":"A2",
          "RoomImageName":"A2",
          "DisplayName":"Room A2",
          "FloorImageName":"FloorA1"
@@ -25,7 +31,7 @@
          "FloorImageName":"FloorA3"
       },
       {
-         "RoomId":"201",
+         "RoomId":"A302",
          "RoomImageName":"A302",
          "DisplayName":"Room A302",
          "FloorImageName":"FloorA3"
@@ -43,7 +49,7 @@
          "FloorImageName":"FloorA3"
       },
       {
-         "RoomId":"202",
+         "RoomId":"A305",
          "RoomImageName":"A305",
          "DisplayName":"Room A305",
          "FloorImageName":"FloorA3"
@@ -79,19 +85,19 @@
          "FloorImageName":"FloorA3"
       },
       {
-         "RoomId":"203",
+         "RoomId":"A311-A312",
          "RoomImageName":"A311-312",
          "DisplayName":"Rooms A311-A312",
          "FloorImageName":"FloorA3"
       },
       {
-         "RoomId":"204",
+         "RoomId":"A313-A314",
          "RoomImageName":"A313-314",
          "DisplayName":"Rooms A313-A314",
          "FloorImageName":"FloorA3"
       },
       {
-         "RoomId":"205",
+         "RoomId":"A315-A316",
          "RoomImageName":"A315-316",
          "DisplayName":"Rooms A315-A316",
          "FloorImageName":"FloorA3"
@@ -103,13 +109,13 @@
          "FloorImageName":"FloorA4"
       },
       {
-         "RoomId":"206",
+         "RoomId":"A402-A403",
          "RoomImageName":"A402-403",
          "DisplayName":"Rooms A402-A403",
          "FloorImageName":"FloorA4"
       },
       {
-         "RoomId":"207",
+         "RoomId":"A404-A405",
          "RoomImageName":"A404-405",
          "DisplayName":"Rooms A404-A405",
          "FloorImageName":"FloorA4"
@@ -139,13 +145,13 @@
          "FloorImageName":"FloorA4"
       },
       {
-         "RoomId":"236",
+         "RoomId":"A411-A412",
          "RoomImageName":"A411-412",
          "DisplayName":"Rooms A411-A412",
          "FloorImageName":"FloorA4"
       },
       {
-         "RoomId":"237",
+         "RoomId":"Sidney Marcus Auditorium",
          "RoomImageName":"sidney-marcus-auditorium",
          "DisplayName":"Sidney Marcus Auditorium",
          "FloorImageName":"FloorA4"
@@ -169,7 +175,7 @@
          "FloorImageName":"FloorB2"
       },
       {
-         "RoomId":"208",
+         "RoomId":"B203",
          "RoomImageName":"B203",
          "DisplayName":"Room B203",
          "FloorImageName":"FloorB2"
@@ -181,13 +187,13 @@
          "FloorImageName":"FloorB2"
       },
       {
-         "RoomId":"209",
+         "RoomId":"B206",
          "RoomImageName":"B206",
          "DisplayName":"Room B206",
          "FloorImageName":"FloorB2"
       },
       {
-         "RoomId":"210",
+         "RoomId":"B207-B208",
          "RoomImageName":"B207-208",
          "DisplayName":"Rooms B207-B208",
          "FloorImageName":"FloorB2"
@@ -205,13 +211,13 @@
          "FloorImageName":"FloorB2"
       },
       {
-         "RoomId":"211",
+         "RoomId":"B211-B212",
          "RoomImageName":"B211-212",
          "DisplayName":"Rooms B211-B212",
          "FloorImageName":"FloorB2"
       },
       {
-         "RoomId":"212",
+         "RoomId":"B213-B214",
          "RoomImageName":"B213-214",
          "DisplayName":"Rooms B213-B214",
          "FloorImageName":"FloorB2"
@@ -223,7 +229,7 @@
          "FloorImageName":"FloorB2"
       },
       {
-         "RoomId":"213",
+         "RoomId":"B216-B217",
          "RoomImageName":"B216-217",
          "DisplayName":"Rooms B216-B217",
          "FloorImageName":"FloorB2"
@@ -241,13 +247,13 @@
          "FloorImageName":"FloorB3"
       },
       {
-         "RoomId":"214",
+         "RoomId":"B302-B303",
          "RoomImageName":"B302-303",
          "DisplayName":"Rooms B302-B303",
          "FloorImageName":"FloorB3"
       },
       {
-         "RoomId":"215",
+         "RoomId":"B304-B305",
          "RoomImageName":"B304-305",
          "DisplayName":"Rooms B304-B305",
          "FloorImageName":"FloorB3"
@@ -265,7 +271,7 @@
          "FloorImageName":"FloorB3"
       },
       {
-         "RoomId":"216",
+         "RoomId":"B308-B309",
          "RoomImageName":"B308-309",
          "DisplayName":"Rooms B308-B309",
          "FloorImageName":"FloorB3"
@@ -283,7 +289,7 @@
          "FloorImageName":"FloorB3"
       },
       {
-         "RoomId":"238",
+         "RoomId":"B312-B314",
          "RoomImageName":"B312-314",
          "DisplayName":"Rooms B312-B314",
          "FloorImageName":"FloorB3"
@@ -319,7 +325,7 @@
          "FloorImageName":"FloorB3"
       },
       {
-         "RoomId":"217",
+         "RoomId":"B401-B402",
          "RoomImageName":"B401-402",
          "DisplayName":"Rooms B401-B402",
          "FloorImageName":"FloorB4"
@@ -337,7 +343,7 @@
          "FloorImageName":"FloorB4"
       },
       {
-         "RoomId":"239",
+         "RoomId":"B405-B407",
          "RoomImageName":"B405-407",
          "DisplayName":"Rooms B405-B407",
          "FloorImageName":"FloorB4"
@@ -367,31 +373,31 @@
          "FloorImageName":"FloorB4"
       },
       {
-         "RoomId":"240",
+         "RoomId":"Thomas Murphy Ballroom",
          "RoomImageName":"thomas-murphy-ballroom",
          "DisplayName":"Thomas Murphy Ballroom",
          "FloorImageName":"FloorB5"
       },
       {
-         "RoomId":"218",
+         "RoomId":"Thomas Murphy Ballroom 1",
          "RoomImageName":"thomas-murphy-ballroom",
          "DisplayName":"Thomas Murphy Ballroom 1",
          "FloorImageName":"FloorB5"
       },
       {
-         "RoomId":"219",
+         "RoomId":"Thomas Murphy Ballrooms 2&3",
          "RoomImageName":"thomas-murphy-ballroom",
          "DisplayName":"Thomas Murphy Ballrooms 2&3",
          "FloorImageName":"FloorB5"
       },
       {
-         "RoomId":"220",
+         "RoomId":"Thomas Murphy Ballroom 4",
          "RoomImageName":"thomas-murphy-ballroom",
          "DisplayName":"Thomas Murphy Ballroom 4",
          "FloorImageName":"FloorB5"
       },
       {
-         "RoomId":"241",
+         "RoomId":"C1",
          "RoomImageName":"C1",
          "DisplayName":"Room C1",
          "FloorImageName":"FloorC1"
@@ -409,19 +415,19 @@
          "FloorImageName":"FloorC1"
       },
       {
-         "RoomId":"221",
+         "RoomId":"C101",
          "RoomImageName":"C101",
          "DisplayName":"Room C101",
          "FloorImageName":"FloorC1"
       },
       {
-         "RoomId":"231",
+         "RoomId":"C102",
          "RoomImageName":"C102",
          "DisplayName":"Room C102",
          "FloorImageName":"FloorC1"
       },
       {
-         "RoomId":"232",
+         "RoomId":"C103",
          "RoomImageName":"C103",
          "DisplayName":"Room C103",
          "FloorImageName":"FloorC1"
@@ -451,7 +457,7 @@
          "FloorImageName":"FloorC1"
       },
       {
-         "RoomId":"222",
+         "RoomId":"C108-C109",
          "RoomImageName":"C108-109",
          "DisplayName":"Rooms C108-C109",
          "FloorImageName":"FloorC1"
@@ -463,25 +469,25 @@
          "FloorImageName":"FloorC1"
       },
       {
-         "RoomId":"223",
+         "RoomId":"C111",
          "RoomImageName":"C111",
          "DisplayName":"Room C111",
          "FloorImageName":"FloorC1"
       },
       {
-         "RoomId":"224",
+         "RoomId":"C112",
          "RoomImageName":"C112",
          "DisplayName":"Room C112",
          "FloorImageName":"FloorC1"
       },
       {
-         "RoomId":"225",
+         "RoomId":"C113",
          "RoomImageName":"C113",
          "DisplayName":"Room C113",
          "FloorImageName":"FloorC1"
       },
       {
-         "RoomId":"226",
+         "RoomId":"C114",
          "RoomImageName":"C114",
          "DisplayName":"Room C114",
          "FloorImageName":"FloorC1"
@@ -499,7 +505,7 @@
          "FloorImageName":"FloorC2"
       },
       {
-         "RoomId":"227",
+         "RoomId":"C202-C204",
          "RoomImageName":"C202-204",
          "DisplayName":"Rooms C202-C204",
          "FloorImageName":"FloorC2"
@@ -577,13 +583,13 @@
          "FloorImageName":"FloorC3"
       },
       {
-         "RoomId":"228",
+         "RoomId":"C302",
          "RoomImageName":"C302",
          "DisplayName":"Room C302",
          "FloorImageName":"FloorC3"
       },
       {
-         "RoomId":"242",
+         "RoomId":"Georgia Ballroom",
          "RoomImageName":"georgia-ballroom",
          "DisplayName":"Georgia Ballroom",
          "FloorImageName":"FloorC3"
@@ -647,12 +653,6 @@
          "RoomImageName":"FloorC2",
          "DisplayName":"Building C Floor 2",
          "FloorImageName":"FloorC2"
-      },
-      {
-         "RoomId":"60033",
-         "RoomImageName":"FloorC3",
-         "DisplayName":"Building C Floor 3",
-         "FloorImageName":"FloorC3"
       },
       {
          "RoomId":"60033",
@@ -813,7 +813,7 @@
       {
           "RoomId":"229",
           "RoomImageName":"OmniBallroom",
-          "DisplayName":"Omni - International Ballroom",
+          "DisplayName":"Omni - International Ballroom ",
           "FloorImageName":""
       } ,
       {
