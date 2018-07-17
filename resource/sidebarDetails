@@ -1,0 +1,142 @@
+[
+    {
+        "sidebarType": "sessions",
+        "metadata": [
+            {
+                "title": "Session Code",
+                "layout": "no-link",
+                "listings": "",
+                "subtype": "sessionCode",
+                "subMetadata": [],
+                "telemetryClick": false
+            },
+            {
+                "title": "Session Type",
+                "layout": "link",
+                "listings": "filters",
+                "subtype": "sessionType",
+                "subMetadata": [
+                    {
+                        "title": "",
+                        "layout": "no-link",
+                        "listings": "time",
+                        "subtype": "durationInMinutes",
+                        "subMetadata": [],
+                        "telemetryClick": false
+                    }
+                ],
+                "telemetryClick": false
+            },
+            {
+                "title": "Level",
+                "layout": "link",
+                "listings": "filters",
+                "subtype": "level",
+                "subMetadata": [],
+                "telemetryClick": false
+            },
+            {
+                "title": "Product",
+                "layout": "link",
+                "listings": "filters",
+                "subtype": "products",
+                "subMetadata": [],
+                "telemetryClick": false
+            },
+            {
+                "title": "Format",
+                "layout": "link",
+                "listings": "filters",
+                "subtype": "format",
+                "subMetadata": [],
+                "telemetryClick": false
+            },
+            {
+                "title": "Session Links",
+                "layout": "",
+                "listings": "filters",
+                "subtype": "links",
+                "subMetadata": [
+                    {
+                        "title": "Live Stream",
+                        "layout": "link",
+                        "listings": "link",
+                        "subtype": "liveStream",
+                        "subMetadata": [],
+                        "telemetryClick": false
+                    },
+                    {
+                        "title": "SlideDeck",
+                        "layout": "link",
+                        "listings": "link",
+                        "subtype": "slideDeck",
+                        "subMetadata": [],
+                        "telemetryClick": false
+                    },
+                    {
+                        "title": "Download Video Link",
+                        "layout": "link",
+                        "listings": "link",
+                        "subtype": "downloadVideoLink",
+                        "subMetadata": [],
+                        "telemetryClick": false
+                    }
+                ],
+                "telemetryClick": false
+            }
+        ]
+    },
+    {
+        "sidebarType": "sponsors",
+        "metadata": [
+            {
+                "title": "Company Website",
+                "layout": "link",
+                "listings": "link",
+                "subtype": "website",
+                "subMetadata": [],
+                "telemetryClick": false
+            },
+            {
+                "title": "LinkedIn",
+                "layout": "link",
+                "listings": "link",
+                "subtype": "linkedInUrl",
+                "subMetadata": [],
+                "telemetryClick": false
+            },
+            {
+                "title": "Twitter",
+                "layout": "link",
+                "listings": "link",
+                "subtype": "twitterUrl",
+                "subMetadata": [],
+                "telemetryClick": false
+            },
+            {
+                "title": "Facebook",
+                "layout": "link",
+                "listings": "link",
+                "subtype": "facebookUrl",
+                "subMetadata": [],
+                "telemetryClick": false
+            },
+            {
+                "title": "Blog",
+                "layout": "link",
+                "listings": "link",
+                "subtype": "blogUrl",
+                "subMetadata": [],
+                "telemetryClick": false
+            },
+            {
+                "title": "Youtube",
+                "layout": "link",
+                "listings": "link",
+                "subtype": "youtubeUrl",
+                "subMetadata": [],
+                "telemetryClick": false
+            }
+        ]
+    }
+]
