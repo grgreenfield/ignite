@@ -7,8 +7,7 @@
                 "layout": "no-link",
                 "listings": "",
                 "subtype": "sessionCode",
-                "subMetadata": [],
-                "telemetryClick": false
+                "subMetadata": []
             },
             {
                 "title": "Session Type",
@@ -21,35 +20,30 @@
                         "layout": "no-link",
                         "listings": "time",
                         "subtype": "durationInMinutes",
-                        "subMetadata": [],
-                        "telemetryClick": false
+                        "subMetadata": []
                     }
-                ],
-                "telemetryClick": false
+                ]
             },
             {
                 "title": "Level",
                 "layout": "link",
                 "listings": "filters",
                 "subtype": "level",
-                "subMetadata": [],
-                "telemetryClick": false
+                "subMetadata": []
             },
             {
                 "title": "Product",
                 "layout": "link",
                 "listings": "filters",
                 "subtype": "products",
-                "subMetadata": [],
-                "telemetryClick": false
+                "subMetadata": []
             },
             {
                 "title": "Format",
                 "layout": "link",
                 "listings": "filters",
                 "subtype": "format",
-                "subMetadata": [],
-                "telemetryClick": false
+                "subMetadata": []
             },
             {
                 "title": "Session Links",
@@ -62,27 +56,23 @@
                         "layout": "link",
                         "listings": "link",
                         "subtype": "liveStream",
-                        "subMetadata": [],
-                        "telemetryClick": false
+                        "subMetadata": []
                     },
                     {
                         "title": "SlideDeck",
                         "layout": "link",
                         "listings": "link",
                         "subtype": "slideDeck",
-                        "subMetadata": [],
-                        "telemetryClick": false
+                        "subMetadata": []
                     },
                     {
                         "title": "Download Video Link",
                         "layout": "link",
                         "listings": "link",
                         "subtype": "downloadVideoLink",
-                        "subMetadata": [],
-                        "telemetryClick": false
+                        "subMetadata": []
                     }
-                ],
-                "telemetryClick": false
+                ]
             }
         ]
     },
@@ -94,48 +84,42 @@
                 "layout": "link",
                 "listings": "link",
                 "subtype": "website",
-                "subMetadata": [],
-                "telemetryClick": false
+                "subMetadata": []
             },
             {
                 "title": "LinkedIn",
                 "layout": "link",
                 "listings": "link",
                 "subtype": "linkedInUrl",
-                "subMetadata": [],
-                "telemetryClick": false
+                "subMetadata": []
             },
             {
                 "title": "Twitter",
                 "layout": "link",
                 "listings": "link",
                 "subtype": "twitterUrl",
-                "subMetadata": [],
-                "telemetryClick": false
+                "subMetadata": []
             },
             {
                 "title": "Facebook",
                 "layout": "link",
                 "listings": "link",
                 "subtype": "facebookUrl",
-                "subMetadata": [],
-                "telemetryClick": false
+                "subMetadata": []
             },
             {
                 "title": "Blog",
                 "layout": "link",
                 "listings": "link",
                 "subtype": "blogUrl",
-                "subMetadata": [],
-                "telemetryClick": false
+                "subMetadata": []
             },
             {
                 "title": "Youtube",
                 "layout": "link",
                 "listings": "link",
                 "subtype": "youtubeUrl",
-                "subMetadata": [],
-                "telemetryClick": false
+                "subMetadata": []
             }
         ]
     }
