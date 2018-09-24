@@ -88,7 +88,7 @@
           "Class": "",
           "Path": "detail.industry",
           "Value": "",
-          "OptionsPath": "industry"
+          "OptionsPath": "industryFocus"
         },{
           "DisplayTitle": "Product",
           "FieldName": "Product",
