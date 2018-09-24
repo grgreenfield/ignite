@@ -91,7 +91,7 @@
           "OptionsPath": "industryFocus"
         },{
           "DisplayTitle": "Product",
-          "FieldName": "product",
+          "FieldName": "products",
           "Style": "nestedSelect",
           "Class": "",
           "Path": "detail.products",
