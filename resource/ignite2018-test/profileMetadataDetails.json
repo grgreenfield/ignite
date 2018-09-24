@@ -75,7 +75,7 @@
           "Regex": "^https?://.+$"
         },{
           "DisplayTitle": "Country",
-          "FieldName": "Country",
+          "FieldName": "country",
           "Style": "Options",
           "Class": "",
           "Path": "detail.country",
@@ -83,7 +83,7 @@
           "OptionsPath": "countryList"
         },{
           "DisplayTitle": "Industry",
-          "FieldName": "Industry",
+          "FieldName": "industry",
           "Style": "Options",
           "Class": "",
           "Path": "detail.industry",
@@ -91,7 +91,7 @@
           "OptionsPath": "industryFocus"
         },{
           "DisplayTitle": "Product",
-          "FieldName": "Product",
+          "FieldName": "product",
           "Style": "nestedSelect",
           "Class": "",
           "Path": "detail.products",
@@ -99,7 +99,7 @@
           "OptionsPath": "product"
         },{
           "DisplayTitle": "Solution Area",
-          "FieldName": "SolutionArea",
+          "FieldName": "solutionArea",
           "Style": "nestedSelect",
           "Class": "",
           "Path": "detail.solutionArea",
@@ -107,7 +107,7 @@
           "OptionsPath": "solutionArea"
         },{
           "DisplayTitle": "Community Focus",
-          "FieldName": "CommunityFocus",
+          "FieldName": "communityFocus",
           "Style": "multiSelect",
           "Class": "",
           "Path": "detail.communityFocus",
