@@ -3,35 +3,35 @@
         "HeadingTitle": "Attendee Profile",
         "ItemsToShow": [{
           "DisplayTitle": "Picture",
-          "FieldName": "ProfileImage",
+          "FieldName": "profilePicture",
           "Style": "picture",
           "Class": "",
           "Path": "detail.profileImage",
           "Value": ""
         },{
           "DisplayTitle": "Job Title",
-          "FieldName": "Title",
+          "FieldName": "title",
           "Style": "inputText",
           "Class": "",
           "Path": "detail.title",
           "Value": ""
         },{
           "DisplayTitle": "Company",
-          "FieldName": "Company",
+          "FieldName": "company",
           "Style": "inputText",
           "Class": "",
           "Path": "detail.company",
           "Value": ""
         },{
           "DisplayTitle": "Biography",
-          "FieldName": "Biography",
+          "FieldName": "biography",
           "Style": "textArea",
           "Class": "",
           "Path": "detail.biography",
           "Value": ""
         },{
           "DisplayTitle": "Blog",
-          "FieldName": "Blog",
+          "FieldName": "blog",
           "Style": "inputText",
           "Class": "",
           "Path": "social.blog",
@@ -39,7 +39,7 @@
           "Regex": "^https?://.+$"
         },{
           "DisplayTitle": "Facebook",
-          "FieldName": "Facebook",
+          "FieldName": "facebook",
           "Style": "inputText",
           "Class": "",
           "Path": "social.facebook",
@@ -47,7 +47,7 @@
           "Regex": "^http[s]?://(www|[a-zA-Z]{2}-[a-zA-Z]{2}).facebook.com/(pages/[a-zA-Z0-9.-]+[0-9]+|[a-zA-Z0-9.-]+)[/]?$"
         },{
           "DisplayTitle": "LinkedIn",
-          "FieldName": "LinkedIn",
+          "FieldName": "linkedIn",
           "Style": "inputText",
           "Class": "",
           "Path": "social.linkedIn",
@@ -55,7 +55,7 @@
           "Regex": "https?://.*linkedin.com/in/.+"
         },{
           "DisplayTitle": "Twitter",
-          "FieldName": "Twitter",
+          "FieldName": "twitter",
           "Style": "inputText",
           "Class": "",
           "Path": "social.twitter",
@@ -67,7 +67,7 @@
         "HeadingTitle": "Company Profile",
         "ItemsToShow": [{
           "DisplayTitle": "Website",
-          "FieldName": "Website",
+          "FieldName": "website",
           "Style": "inputText",
           "Class": "",
           "Path": "social.website",
@@ -75,7 +75,7 @@
           "Regex": "^https?://.+$"
         },{
           "DisplayTitle": "Country",
-          "FieldName": "Country",
+          "FieldName": "country",
           "Style": "Options",
           "Class": "",
           "Path": "detail.country",
@@ -137,21 +137,21 @@
           "Path": "contacts.notification",
           "Options": [{
               "DisplayTitle": "Make my profile visible in the Microsoft Ignite directory and make me available for meetings and messaging",
-              "FieldName": "CanBeFound",
+              "FieldName": "canBeFound",
               "Style": "checkbox",
               "Class": "",
               "Path": "optins.canBeFound",
               "Value": ""
           },{
               "DisplayTitle": "Show sessions I have added to my schedule",
-              "FieldName": "CanShareSession",
+              "FieldName": "canShareSession",
               "Style": "checkbox",
               "Class": "",
               "Path": "optins.canShareSessions",
               "Value": ""
           },{
               "DisplayTitle": "Allow me to share my profile publicly",
-              "FieldName": "IsPubliclyVisible",
+              "FieldName": "isPubliclyVisible",
               "Style": "checkbox",
               "Class": "",
               "Path": "optins.isPubliclyVisible",
