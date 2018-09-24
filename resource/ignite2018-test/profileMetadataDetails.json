@@ -75,7 +75,7 @@
           "Regex": "^https?://.+$"
         },{
           "DisplayTitle": "Country",
-          "FieldName": "country",
+          "FieldName": "Country",
           "Style": "Options",
           "Class": "",
           "Path": "detail.country",
